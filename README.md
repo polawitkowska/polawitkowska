@@ -14,7 +14,7 @@ I'm interested in Frontend Development and enjoy programming in JavaScript (most
 🌱 Currently learning: TypeScript, Angular.
 
 **How to reach me:**\
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" width="30"/>](mailto:witkowska.pola@gmail.com)
+[<img src="https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=maildotru&logoColor=white" width="85"/>](mailto:witkowska.pola@gmail.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/pola-witkowska/)
 <!--
 **polawitkowska/polawitkowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
