@@ -1,6 +1,6 @@
 ## Hello 😊
 
-👋 I'm Pola, a 3rd-year Computer Science student.\
+👋 I'm Pola, a 4th-year Computer Science student.\
 🧩 I'm interested in Frontend Development and enjoy programming in JavaScript (mostly React.js), Python, and C++.\
 🔭 I’m currently working on a self-care web app called Stick With It!!!, for a student group project.\
 🌱 Currently learning: TypeScript, Angular.
